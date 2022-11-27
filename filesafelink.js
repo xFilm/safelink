@@ -259,7 +259,7 @@ if (a_to_vh == false) {
 
 var encryptedUrl = Base64.encode(a_to_vi);
 
-a_to_ve[i].href = “https://xfilm.me/safelink/?url=” + encryptedUrl;
+a_to_ve[i].href = “https://www.drivebox.me/download-link/?url=” + encryptedUrl;
 
 a_to_ve[i].rel = “nofollow”;
 
